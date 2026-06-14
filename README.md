@@ -45,6 +45,9 @@ AWS/
 │   └── vite.config.js       # Vite server configuration
 └── .gitignore               # Global workspace rule coordinator
 
+
+https://github.com/user-attachments/assets/bf9aef0d-93ae-4a6f-aeef-76e0af3c69b7
+
 ### 1.Clone the repository
 git clone [https://github.com/mahn00rmj2004/Secure-Document-Verification.git](https://github.com/mahn00rmj2004/Secure-Document-Verification.git)
 cd Secure-Document-Verification
