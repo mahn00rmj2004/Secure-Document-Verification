@@ -78,4 +78,3 @@ Open a secondary terminal window and navigate to the frontend directory:
 cd frontend
 npm install
 npm run dev
-https://github.com/mahn00rmj2004/Secure-Document-Verification/issues/1#issue-4659878963
